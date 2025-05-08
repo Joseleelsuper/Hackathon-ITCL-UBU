@@ -32,7 +32,6 @@ Se busca desarrollar un algoritmo capaz de clasificar automáticamente la dificu
 ## ⏱️ Formato y Fechas
 
 - **Duración**: 24 horas
-- **Modalidad**: Online o presencial
 - **Inicio**: Viernes 09/05/2025 14:00
 - **Entrega**: Sábado 10/05/2025 12:00 
 ---
