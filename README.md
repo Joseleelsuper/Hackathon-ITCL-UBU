@@ -25,7 +25,8 @@ Se busca desarrollar un algoritmo capaz de clasificar automáticamente la dificu
 
 - **Lenguaje**: Python 3.10+
 - **Frameworks sugeridos**: PyTorch
-- **Entregables**: consultar en el readme de cada ejercicio
+- **Entregables**: Consultar en el readme de cada ejercicio.
+- **Entrega de la solución**: Compartir al finalizar, a las 12:00, la jornada del sábado en esta url https://forms.gle/3aj2WktY8RibNeWH7 un zip con 3 carpetas, cada una contendrá la solución de cada reto.
 
 ---
 
