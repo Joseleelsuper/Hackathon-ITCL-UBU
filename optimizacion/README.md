@@ -68,8 +68,7 @@ Tenemos una cuadrícula de $N\times N$, donde la celda $(i,j)$ de fila $i$ y col
 
 ###  **Evaluación competitiva sobre conjunto de test externo (Ranking Top 5)** 
 
-Los modelos desarrollados serán evaluados sobre un conjunto de test externo con muestras no vistas previamente. Se permitirá realizar una evaluación por hora en la mitad de este conjunto de test. Para ello se proporcionará una forma de hacer la submision de un csv y se recibirá la métrica obtenida.
-
+Los modelos desarrollados serán evaluados sobre un conjunto de test externo con muestras no vistas previamente. Se realizará una evaluación del problema sobre el archivo JSON proporcionado.
 -   Al final de la competición solo los **5 mejores modelos**, bajo la función de coste asociada a cada problema y la satisfacción de las restricciones, **optarán a ser evaluados para la victoria**.
     
 
