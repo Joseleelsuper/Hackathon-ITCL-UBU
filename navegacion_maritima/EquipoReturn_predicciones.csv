@@ -1,0 +1,541 @@
+Ejercicio,Situacion_n,DistanciaInicioRiiesgo,DCPA_yds,Situacion,VelNudos,VelNudosContacto,Responsables,Contacto,AccionContacto,TCPA,Situacion_evaluacion,Responsable_evaluacion,DificultadSituacion,DificultadEjercicio
+101,1,5663.04,961.43,Cruce_br_br,18.01,1.97,Niguno,Velero,N/C,8.359799464473706,Cruce_br_br,Niguno,MEDIA,MEDIA
+101,2,2808.58,1378.56,Cruce_er_er,13.68,15.39,Niguno,Motor,N/C,2.555062592394571,Cruce_er_er,Niguno,MEDIA,MEDIA
+101,3,2437.53,258.26,Vuelta_encontrada,12.14,25.6,Ambos,Motor,N/C,1.9043674371362584,Vuelta_encontrada,Ambos,ALTA,MEDIA
+101,4,7692.47,1575.49,Cruce_br_br,19.41,5.27,Niguno,Velero,N/C,9.07841856616636,Cruce_br_br,Niguno,BAJA,MEDIA
+101,5,2847.95,1760.09,Cruce_er_er,15.67,0.03,Niguno,Velero,N/C,4.225910839121515,Cruce_er_er,Niguno,MEDIA,MEDIA
+101,6,6357.34,1053.43,Cruce_er,13.12,14.97,Barco,Pesquero,N/C,9.158408430877548,Cruce_er,Barco,BAJA,MEDIA
+101,7,9396.22,452.08,Alcanzando,12.41,3.87,Barco,Velero,N/C,32.50922447709801,Alcanzando,Barco,MEDIA,MEDIA
+101,8,6213.17,1259.8,Vuelta_encontrada,16.01,18.05,Ambos,Motor,N/C,5.293222382642844,Vuelta_encontrada,Ambos,BAJA,MEDIA
+101,9,4178.89,482.99,Cruce_br,15.0,7.58,Contacto,Velero,Si,6.667014663429296,Cruce_br,Contacto,MEDIA,MEDIA
+101,10,1607.67,1603.97,Alcanzado,1.0,4.9,Contacto,Velero,No,0.8287404486870888,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+102,1,2056.43,1797.2,Cruce_er,17.13,22.59,Barco,Motor,N/C,1.2576322293988755,Cruce_er,Barco,MEDIA,MEDIA
+102,2,823.43,572.58,Alcanzando,10.15,3.25,Barco,Motor,N/C,2.538295647688161,Alcanzando,Barco,ALTA,MEDIA
+102,3,2009.57,1380.55,Cruce_br_br,16.0,0.28,Niguno,Motor,N/C,2.6582708580819947,Cruce_br_br,Niguno,MEDIA,MEDIA
+102,4,2361.68,1558.43,Cruce_br_br,13.19,8.86,Niguno,Velero,N/C,2.420039555306203,Cruce_br_br,Niguno,MEDIA,MEDIA
+102,5,3991.86,1597.48,Cruce_br_br,19.57,7.88,Niguno,Pesquero,N/C,4.0091708823805465,Cruce_br_br,Niguno,MEDIA,MEDIA
+102,6,2401.62,1678.62,Vuelta_encontrada,19.39,0.17,Ambos,Velero,N/C,2.602423189695044,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+102,7,9524.09,186.52,Alcanzando,11.4,6.35,Barco,Velero,N/C,55.94390320950862,Alcanzando,Barco,MEDIA,MEDIA
+102,8,947.75,926.6,Cruce_er,19.91,3.95,Barco,Velero,N/C,0.2933228617460754,Cruce_er,Barco,ALTA,MEDIA
+102,9,412.42,262.55,Vuelta_encontrada,12.69,2.05,Ambos,Velero,N/C,0.640012082529349,Vuelta_encontrada,Ambos,ALTA,MEDIA
+102,10,3814.64,177.22,Cruce_br_br,13.77,27.25,Niguno,Motor,N/C,2.7642986989888416,Cruce_br_br,Niguno,ALTA,MEDIA
+102,11,9791.35,285.71,Alcanzando,17.0,5.47,Barco,Pesquero,N/C,25.16419383284545,Alcanzando,Barco,MEDIA,MEDIA
+102,12,3806.99,392.55,Alcanzado,5.21,9.4,Contacto,Pesquero,Si,26.660158319689312,Alcanzado,Contacto,MEDIA,MEDIA
+102,13,2230.48,1190.83,Alcanzando,23.7,11.46,Barco,Pesquero,N/C,4.55710824257732,Alcanzando,Barco,MEDIA,MEDIA
+102,14,970.46,970.31,Cruce_er_er,16.16,12.76,Niguno,Pesquero,N/C,0.0177059532410142,Cruce_er_er,Niguno,MEDIA,MEDIA
+103,1,2088.42,1559.17,Cruce_er,19.59,14.56,Barco,Pesquero,N/C,1.5587925108294796,Cruce_er,Barco,MEDIA,MEDIA
+103,2,2990.7,919.08,Alcanzado,4.87,13.81,Contacto,Pesquero,No,9.430843516927768,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+103,3,3030.55,1718.78,Cruce_br,17.38,0.03,Contacto,Motor,No,4.258719898841031,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+103,4,5006.17,145.79,Vuelta_encontrada,13.47,7.58,Ambos,Motor,N/C,7.041874117838794,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+103,5,3846.33,1030.97,Cruce_er,19.09,12.14,Barco,Motor,N/C,4.613164733908562,Cruce_er,Barco,MEDIA,MEDIA
+103,6,485.47,465.68,Cruce_br_br,11.12,28.03,Niguno,Motor,N/C,0.1054312580090593,Cruce_br_br,Niguno,ALTA,MEDIA
+103,7,3579.4,541.76,Cruce_er,18.8,5.85,Barco,Pesquero,N/C,5.3787848297419485,Cruce_er,Barco,ALTA,MEDIA
+104,1,679.15,666.03,Cruce_er_er,18.04,4.84,Niguno,Velero,N/C,0.1723883640235695,Cruce_er_er,Niguno,MEDIA,MEDIA
+104,2,1527.4,1403.86,Vuelta_encontrada,17.67,9.76,Ambos,Pesquero,N/C,0.6502209484570113,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+104,3,1662.14,1614.42,Vuelta_encontrada,14.04,4.04,Ambos,Velero,N/C,0.6477439811954105,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+104,4,1824.78,1788.94,Cruce_br,13.98,5.41,Contacto,Pesquero,No,0.6635528591392001,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+104,5,8276.85,1171.96,Cruce_er,10.19,12.8,Barco,Pesquero,N/C,17.21078546793908,Cruce_er,Barco,BAJA,MEDIA
+104,6,1131.03,538.41,Alcanzando,13.6,4.19,Barco,Motor,N/C,3.1296772855070945,Alcanzando,Barco,ALTA,MEDIA
+104,7,2118.91,1866.36,Alcanzado,17.92,21.92,Contacto,Motor,Si,7.3901638240705,Alcanzado,Contacto,BAJA,MEDIA
+104,8,697.7,557.34,Cruce_br,15.24,24.42,Contacto,Motor,No,0.4336648835882933,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+104,9,2663.43,1624.57,Cruce_er_er,12.02,7.44,Niguno,Pesquero,N/C,3.3077273306102257,Cruce_er_er,Niguno,MEDIA,MEDIA
+104,10,5532.91,219.75,Cruce_er_er,12.38,5.03,Niguno,Pesquero,N/C,9.665536966443932,Cruce_er_er,Niguno,MEDIA,MEDIA
+104,11,8280.71,1999.08,Cruce_br_br,18.24,4.66,Niguno,Velero,N/C,10.608359407864716,Cruce_br_br,Niguno,BAJA,MEDIA
+104,12,985.72,122.7,Cruce_br_br,10.9,9.72,Niguno,Velero,N/C,1.4228660704129792,Cruce_br_br,Niguno,ALTA,MEDIA
+104,13,1253.83,628.23,Cruce_br_br,19.36,5.79,Niguno,Pesquero,N/C,1.2908467479434529,Cruce_br_br,Niguno,ALTA,MEDIA
+104,14,4917.84,826.05,Cruce_br,11.18,0.13,Contacto,Velero,Si,12.808998143572284,Cruce_br,Contacto,MEDIA,MEDIA
+104,15,7744.5,965.14,Cruce_er,17.45,7.08,Barco,Pesquero,N/C,12.337508221037542,Cruce_er,Barco,MEDIA,MEDIA
+104,16,2164.96,748.53,Vuelta_encontrada,10.05,8.34,Ambos,Velero,N/C,3.276314810582542,Vuelta_encontrada,Ambos,ALTA,MEDIA
+104,17,516.5,327.37,Cruce_er,19.03,7.47,Barco,Pesquero,N/C,0.5506659615602061,Cruce_er,Barco,ALTA,MEDIA
+104,18,8514.23,1259.3,Cruce_br,13.59,5.71,Contacto,Pesquero,No,18.774333015850253,Cruce_br si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+105,1,1352.79,350.67,Vuelta_encontrada,11.09,34.98,Ambos,Motor,N/C,0.8407623996388356,Vuelta_encontrada,Ambos,ALTA,ALTA
+105,2,1570.16,714.59,Cruce_br,15.24,5.13,Contacto,Velero,No,2.776234202692589,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,ALTA
+105,3,4096.07,1339.27,Alcanzado,19.7,28.48,Contacto,Motor,No,12.877661551118765,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,ALTA
+106,1,9793.17,897.93,Alcanzando,22.86,13.67,Barco,Pesquero,N/C,31.441505365253143,Alcanzando,Barco,BAJA,BAJA
+106,2,4522.41,226.69,Alcanzado,13.58,15.59,Contacto,Motor,No,66.2486160451164,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,BAJA
+106,3,640.83,236.64,Cruce_er_er,10.13,29.1,Niguno,Motor,N/C,0.4514824913047301,Cruce_er_er,Niguno,ALTA,BAJA
+106,4,2029.29,171.72,Cruce_br_br,18.66,7.63,Niguno,Motor,N/C,2.290675843511609,Cruce_br_br,Niguno,ALTA,BAJA
+106,5,6410.03,964.04,Alcanzando,11.41,6.02,Barco,Velero,N/C,34.80062709516146,Alcanzando,Barco,BAJA,BAJA
+106,6,3578.61,961.45,Cruce_br_br,19.16,1.72,Niguno,Velero,N/C,4.938848203228687,Cruce_br_br,Niguno,MEDIA,BAJA
+107,1,4174.76,1870.6,Alcanzando,19.56,8.37,Barco,Velero,N/C,9.836846075752836,Alcanzando,Barco,BAJA,MEDIA
+107,2,9516.99,924.76,Cruce_er_er,15.21,4.7,Niguno,Velero,N/C,14.264978195172162,Cruce_er_er,Niguno,MEDIA,MEDIA
+107,3,704.29,685.55,Cruce_er,17.88,0.0,Barco,Velero,N/C,0.2674887622677477,Cruce_er,Barco,MEDIA,MEDIA
+107,4,1801.4,1670.97,Vuelta_encontrada,11.8,1.77,Ambos,Velero,N/C,1.4698150089204247,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+107,5,1699.11,1531.1,Cruce_br_br,15.08,1.62,Niguno,Velero,N/C,1.3076376817702966,Cruce_br_br,Niguno,MEDIA,MEDIA
+107,6,3204.02,648.16,Cruce_er,15.62,7.0,Barco,Pesquero,N/C,6.259455818764934,Cruce_er,Barco,ALTA,MEDIA
+107,7,951.71,759.22,Cruce_er_er,10.29,13.63,Niguno,Pesquero,N/C,0.7192177408039314,Cruce_er_er,Niguno,MEDIA,MEDIA
+107,8,3019.12,96.36,Alcanzado,1.0,7.08,Contacto,Velero,No,14.709417588396954,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+107,9,4142.42,607.25,Alcanzando,10.9,3.3,Barco,Velero,N/C,15.936287812576412,Alcanzando,Barco,MEDIA,MEDIA
+107,10,598.02,285.83,Cruce_er_er,18.32,14.29,Niguno,Motor,N/C,0.4806180260451693,Cruce_er_er,Niguno,ALTA,MEDIA
+107,11,2625.55,86.11,Cruce_br_br,18.68,30.5,Niguno,Motor,N/C,1.5836470529427065,Cruce_br_br,Niguno,ALTA,MEDIA
+108,1,2130.98,1042.57,Alcanzando,18.34,8.56,Barco,Motor,N/C,5.632348260866207,Alcanzando,Barco,MEDIA,MEDIA
+108,2,9899.51,1451.27,Cruce_er,19.75,2.68,Barco,Pesquero,N/C,14.499843337348215,Cruce_er,Barco,BAJA,MEDIA
+108,3,4154.91,1689.85,Cruce_er_er,16.2,27.19,Niguno,Motor,N/C,2.6413293253411627,Cruce_er_er,Niguno,MEDIA,MEDIA
+108,4,1383.24,77.17,Cruce_br,18.78,13.97,Contacto,Motor,No,1.6260181516678534,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+108,5,2160.01,1740.69,Cruce_br,14.16,3.09,Contacto,Pesquero,Si,2.7418798144386267,Cruce_br,Contacto,MEDIA,MEDIA
+109,1,266.96,88.08,Alcanzado,1.0,4.58,Contacto,Pesquero,No,2.08442869120842,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+109,2,1943.7,451.98,Cruce_er_er,11.04,9.59,Niguno,Pesquero,N/C,2.7314033643242266,Cruce_er_er,Niguno,ALTA,MEDIA
+109,3,4657.85,430.31,Cruce_br,16.32,2.71,Contacto,Velero,No,8.150102072245511,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+109,4,5418.96,644.8,Cruce_er,18.62,34.46,Barco,Motor,N/C,4.4327596548592885,Cruce_er,Barco,MEDIA,MEDIA
+109,5,1918.27,225.83,Alcanzando,16.62,11.8,Barco,Motor,N/C,11.67206936065268,Alcanzando,Barco,MEDIA,MEDIA
+109,6,6950.55,1792.63,Cruce_br_br,16.16,5.37,Niguno,Velero,N/C,9.250373320530192,Cruce_br_br,Niguno,BAJA,MEDIA
+109,7,3963.96,927.51,Cruce_er_er,16.15,9.86,Niguno,Velero,N/C,4.520044588000482,Cruce_er_er,Niguno,ALTA,MEDIA
+109,8,2826.41,802.62,Alcanzado,5.86,7.85,Contacto,Pesquero,No,40.20771025866715,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+109,9,576.68,408.05,Alcanzado,1.0,3.82,Contacto,Pesquero,No,4.275376273399018,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+109,10,6277.64,689.56,Alcanzado,1.0,3.97,Contacto,Pesquero,No,62.25917397228773,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+109,11,1837.61,1823.75,Cruce_br_br,12.33,3.28,Niguno,Velero,N/C,0.430089811258945,Cruce_br_br,Niguno,MEDIA,MEDIA
+109,12,3336.11,1023.42,Alcanzando,13.5,6.77,Barco,Motor,N/C,13.887528129750535,Alcanzando,Barco,BAJA,MEDIA
+109,13,6247.47,750.78,Cruce_br_br,18.0,17.4,Niguno,Motor,N/C,5.330597920956908,Cruce_br_br,Niguno,MEDIA,MEDIA
+109,14,223.04,176.9,Cruce_er_er,14.61,4.48,Niguno,Velero,N/C,0.2143336463679432,Cruce_er_er,Niguno,ALTA,MEDIA
+109,15,3655.72,1429.35,Alcanzado,4.28,7.76,Contacto,Pesquero,Si,28.470621951530724,Alcanzado,Contacto,MEDIA,MEDIA
+109,16,4507.85,527.17,Alcanzado,1.0,10.73,Contacto,Pesquero,No,13.627143644567356,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+109,17,1789.54,1629.77,Cruce_er_er,15.09,3.96,Niguno,Pesquero,N/C,1.150814839864589,Cruce_er_er,Niguno,MEDIA,MEDIA
+110,1,9758.02,1033.32,Alcanzado,1.0,0.22,Contacto,Velero,No,366.8149748663616,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+110,2,1076.14,625.57,Cruce_br_br,17.85,11.11,Niguno,Motor,N/C,0.9250645519966282,Cruce_br_br,Niguno,MEDIA,MEDIA
+110,3,6165.84,745.26,Cruce_er_er,12.86,1.63,Niguno,Velero,N/C,12.630587577364878,Cruce_er_er,Niguno,MEDIA,MEDIA
+111,1,7774.05,669.71,Cruce_br,13.2,7.15,Contacto,Velero,No,16.153487373901918,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+111,2,1019.09,895.01,Cruce_er_er,13.68,7.6,Niguno,Pesquero,N/C,0.679334137582465,Cruce_er_er,Niguno,ALTA,MEDIA
+111,3,3847.26,1893.94,Cruce_br_br,11.01,32.71,Niguno,Motor,N/C,2.2921882923472525,Cruce_br_br,Niguno,MEDIA,MEDIA
+111,4,1934.21,560.62,Alcanzado,1.0,2.11,Contacto,Velero,No,49.24575618711062,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+111,5,232.35,109.55,Cruce_er_er,17.27,0.42,Niguno,Velero,N/C,0.3432741146927193,Cruce_er_er,Niguno,ALTA,MEDIA
+111,6,1292.75,1116.78,Cruce_br,16.49,0.59,Contacto,Velero,Si,1.1552394049932175,Cruce_br,Contacto,MEDIA,MEDIA
+111,7,2418.52,1269.66,Alcanzando,13.01,8.55,Barco,Pesquero,N/C,13.654658673962386,Alcanzando,Barco,BAJA,MEDIA
+111,8,1096.98,487.54,Alcanzado,10.58,15.96,Contacto,Motor,Si,5.3941892756311605,Alcanzado,Contacto,MEDIA,MEDIA
+111,9,4778.36,1938.16,Alcanzando,16.61,8.96,Barco,Velero,N/C,16.912267027998535,Alcanzando,Barco,BAJA,MEDIA
+111,10,1006.8,148.15,Cruce_br_br,11.26,9.43,Niguno,Pesquero,N/C,1.4564087805619852,Cruce_br_br,Niguno,ALTA,MEDIA
+111,11,7949.11,628.1,Alcanzado,1.16,12.71,Contacto,Pesquero,No,20.333022021082108,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+111,12,687.96,638.28,Cruce_er_er,17.45,25.22,Niguno,Motor,N/C,0.1785933465734447,Cruce_er_er,Niguno,MEDIA,MEDIA
+111,13,1170.01,968.85,Cruce_br,12.55,13.59,Contacto,Pesquero,No,1.1391429516526523,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+111,14,8526.02,1746.82,Alcanzado,1.0,4.76,Contacto,Velero,Si,65.74292246989356,Alcanzado,Contacto,BAJA,MEDIA
+111,15,697.7,557.34,Cruce_br,15.24,24.42,Contacto,Motor,No,0.4336648835882933,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+111,16,466.42,276.21,Alcanzado,1.0,1.49,Contacto,Velero,No,22.420557102864112,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+111,17,3389.57,1423.22,Alcanzando,7.62,1.2,Barco,Velero,N/C,14.184055707778564,Alcanzando,Barco,BAJA,MEDIA
+111,18,651.54,484.43,Cruce_er,16.67,1.7,Barco,Velero,N/C,0.7679723913341818,Cruce_er,Barco,ALTA,MEDIA
+112,1,1207.1,1060.54,Alcanzando,17.32,2.69,Barco,Velero,N/C,1.1676971328776609,Alcanzando,Barco,MEDIA,MEDIA
+112,2,775.88,1.18,Alcanzado,16.92,26.49,Contacto,Motor,Si,2.4026553679553464,Alcanzado,Contacto,ALTA,MEDIA
+112,3,1224.92,1059.06,Alcanzando,19.65,7.61,Barco,Velero,N/C,1.5133210199875715,Alcanzando,Barco,MEDIA,MEDIA
+112,4,3444.78,1951.96,Alcanzado,1.0,7.72,Contacto,Velero,No,12.519107250009052,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+112,5,5281.98,1558.15,Cruce_br,14.12,8.47,Contacto,Velero,Si,8.600061254746734,Cruce_br,Contacto,BAJA,MEDIA
+112,6,1641.34,330.26,Alcanzando,9.74,5.61,Barco,Velero,N/C,11.481308928956729,Alcanzando,Barco,MEDIA,MEDIA
+112,7,1675.89,954.29,Alcanzado,1.0,5.44,Contacto,Velero,Si,9.180881080060148,Alcanzado,Contacto,MEDIA,MEDIA
+112,8,4524.17,468.38,Cruce_er,18.96,1.89,Barco,Motor,N/C,6.883750743967807,Cruce_er,Barco,MEDIA,MEDIA
+112,9,3807.13,1564.3,Cruce_br_br,16.46,2.61,Niguno,Velero,N/C,5.444473001093444,Cruce_br_br,Niguno,MEDIA,MEDIA
+112,10,5511.0,230.25,Alcanzado,18.57,20.78,Contacto,Motor,Si,58.72887031108001,Alcanzado,Contacto,MEDIA,MEDIA
+112,11,1750.56,1273.69,Alcanzando,19.37,16.83,Barco,Motor,N/C,13.460185480553497,Alcanzando,Barco,BAJA,MEDIA
+112,12,648.74,519.87,Alcanzado,1.0,9.71,Contacto,Pesquero,No,1.319629425632986,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+112,13,1178.08,19.05,Alcanzado,19.64,26.7,Contacto,Motor,No,4.9196700228039,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+113,1,1225.76,1066.79,Vuelta_encontrada,13.79,5.08,Ambos,Velero,N/C,0.9482427187591111,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+113,2,3638.34,1015.45,Cruce_er,19.23,7.78,Barco,Velero,N/C,4.839317444183756,Cruce_er,Barco,MEDIA,MEDIA
+113,3,1831.29,1633.34,Cruce_br_br,15.85,28.95,Niguno,Motor,N/C,0.5539383221870695,Cruce_br_br,Niguno,MEDIA,MEDIA
+113,4,1342.65,1332.32,Alcanzando,15.45,12.29,Barco,Motor,N/C,1.4711937648956446,Alcanzando,Barco,MEDIA,MEDIA
+114,1,6991.07,892.62,Alcanzando,18.85,6.29,Barco,Velero,N/C,16.342782113198613,Alcanzando,Barco,MEDIA,MEDIA
+114,2,770.49,580.98,Cruce_er_er,11.09,8.12,Niguno,Velero,N/C,0.792300454181186,Cruce_er_er,Niguno,MEDIA,MEDIA
+114,3,367.55,364.97,Cruce_br_br,14.34,5.21,Niguno,Pesquero,N/C,0.066318193988033,Cruce_br_br,Niguno,ALTA,MEDIA
+114,4,3212.37,265.29,Cruce_br_br,13.37,17.46,Niguno,Motor,N/C,3.116127812674528,Cruce_br_br,Niguno,ALTA,MEDIA
+114,5,5488.29,495.23,Cruce_br_br,11.01,19.47,Niguno,Motor,N/C,5.318893632560271,Cruce_br_br,Niguno,MEDIA,MEDIA
+114,6,2712.3,414.11,Alcanzado,1.0,5.98,Contacto,Velero,No,15.944779077010656,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+114,7,3261.3,142.37,Alcanzando,14.04,10.71,Barco,Motor,N/C,28.842497045346704,Alcanzando,Barco,MEDIA,MEDIA
+115,1,685.43,446.75,Alcanzado,1.0,0.87,Contacto,Pesquero,Si,106.1622967448063,Alcanzado,Contacto,MEDIA,ALTA
+115,2,524.37,318.68,Cruce_br_br,17.52,3.66,Niguno,Pesquero,N/C,0.5894722903834647,Cruce_br_br,Niguno,ALTA,ALTA
+115,3,710.83,625.98,Cruce_er,15.26,11.39,Barco,Motor,N/C,0.579140792704024,Cruce_er,Barco,MEDIA,ALTA
+115,4,5738.68,404.54,Cruce_er_er,10.12,3.28,Niguno,Velero,N/C,12.670951765207514,Cruce_er_er,Niguno,MEDIA,ALTA
+115,5,663.54,631.84,Cruce_br_br,10.33,14.37,Niguno,Pesquero,N/C,0.2449225441058617,Cruce_br_br,Niguno,ALTA,ALTA
+115,6,306.75,276.9,Cruce_er_er,15.45,4.15,Niguno,Pesquero,N/C,0.2032404592567793,Cruce_er_er,Niguno,ALTA,ALTA
+115,7,1850.89,470.0,Cruce_er,11.8,32.43,Barco,Motor,N/C,1.3948151131400746,Cruce_er,Barco,ALTA,ALTA
+115,8,8938.82,1428.34,Cruce_er,18.3,2.13,Barco,Velero,N/C,14.351043689478423,Cruce_er,Barco,BAJA,ALTA
+115,9,1456.23,55.07,Cruce_er_er,17.05,9.79,Niguno,Pesquero,N/C,1.6167445720093832,Cruce_er_er,Niguno,ALTA,ALTA
+115,10,1350.43,1275.51,Cruce_br_br,13.91,0.83,Niguno,Motor,N/C,0.8975348718143825,Cruce_br_br,Niguno,MEDIA,ALTA
+115,11,342.45,146.91,Vuelta_encontrada,11.53,2.22,Ambos,Velero,N/C,0.6667506847310211,Vuelta_encontrada,Ambos,ALTA,ALTA
+115,12,350.35,245.16,Cruce_er,13.14,3.09,Barco,Velero,N/C,0.5628958409468146,Cruce_er,Barco,ALTA,ALTA
+115,13,2542.1,1300.06,Cruce_br,10.34,4.33,Contacto,Velero,No,5.249491510476428,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,ALTA
+115,14,9064.4,1960.76,Alcanzado,10.11,19.83,Contacto,Motor,Si,26.92839455405944,Alcanzado,Contacto,BAJA,ALTA
+115,15,1928.64,1732.45,Alcanzado,19.46,20.52,Contacto,Motor,No,17.47234044757066,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,ALTA
+116,1,506.37,449.36,Alcanzando,7.64,5.99,Barco,Velero,N/C,4.160826416036926,Alcanzando,Barco,ALTA,MEDIA
+116,2,546.74,156.89,Alcanzando,3.32,0.5,Barco,Pesquero,N/C,5.508739029376257,Alcanzando,Barco,ALTA,MEDIA
+116,3,398.39,360.5,Vuelta_encontrada,19.46,23.3,Ambos,Motor,N/C,0.1174975170150061,Vuelta_encontrada,Ambos,ALTA,MEDIA
+116,4,1863.34,733.28,Cruce_er_er,17.74,5.28,Niguno,Pesquero,N/C,2.249377347937447,Cruce_er_er,Niguno,MEDIA,MEDIA
+116,5,566.81,29.95,Cruce_br_br,16.15,4.64,Niguno,Velero,N/C,0.8114700340023825,Cruce_br_br,Niguno,ALTA,MEDIA
+116,6,667.31,344.3,Cruce_er,13.0,0.29,Barco,Velero,N/C,1.2956699788339778,Cruce_er,Barco,ALTA,MEDIA
+116,7,816.99,638.89,Cruce_br_br,11.19,7.07,Niguno,Pesquero,N/C,0.8362398454234544,Cruce_br_br,Niguno,MEDIA,MEDIA
+116,8,986.31,17.03,Vuelta_encontrada,11.85,9.0,Ambos,Motor,N/C,1.402016076783375,Vuelta_encontrada,Ambos,ALTA,MEDIA
+116,9,1796.38,1766.69,Cruce_br,10.29,5.25,Contacto,Velero,No,0.8094168357682571,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+116,10,809.85,334.1,Cruce_er,12.49,10.96,Barco,Pesquero,N/C,1.2121323132881032,Cruce_er,Barco,ALTA,MEDIA
+116,11,3969.62,1776.8,Cruce_er,15.5,13.53,Barco,Pesquero,N/C,4.864572921144973,Cruce_er,Barco,MEDIA,MEDIA
+116,12,2065.66,872.33,Vuelta_encontrada,13.1,1.94,Ambos,Pesquero,N/C,3.689235830907704,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+116,13,5950.45,336.1,Alcanzado,10.25,11.93,Contacto,Pesquero,No,103.95861761436826,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+116,14,8958.4,1487.28,Cruce_er,18.02,8.82,Barco,Pesquero,N/C,13.328861202861008,Cruce_er,Barco,BAJA,MEDIA
+116,15,9173.75,772.09,Alcanzado,1.0,3.35,Contacto,Pesquero,No,114.9939295730152,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+116,16,4391.13,1473.07,Alcanzando,15.89,2.18,Barco,Pesquero,N/C,8.93785441008717,Alcanzando,Barco,BAJA,MEDIA
+116,17,2317.55,1201.72,Vuelta_encontrada,16.22,0.72,Ambos,Pesquero,N/C,3.4648140652031025,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+116,18,2306.08,1853.17,Vuelta_encontrada,19.56,5.12,Ambos,Motor,N/C,1.6474675554164022,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+116,19,3134.23,1485.93,Alcanzando,17.07,5.74,Barco,Velero,N/C,7.215429742520001,Alcanzando,Barco,BAJA,MEDIA
+116,20,727.42,141.95,Vuelta_encontrada,18.15,16.87,Ambos,Motor,N/C,0.603520766896696,Vuelta_encontrada,Ambos,ALTA,MEDIA
+117,1,1551.98,797.22,Cruce_er_er,14.3,12.88,Niguno,Pesquero,N/C,1.483153897376717,Cruce_er_er,Niguno,ALTA,BAJA
+117,2,6842.12,1739.19,Cruce_er,12.73,3.01,Barco,Velero,N/C,16.19158089982348,Cruce_er,Barco,BAJA,BAJA
+118,1,491.12,487.23,Cruce_br,11.28,26.85,Contacto,Motor,No,0.0616908973957096,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,ALTA
+118,2,444.66,424.9,Alcanzando,14.27,11.73,Barco,Pesquero,N/C,1.4957845425165135,Alcanzando,Barco,ALTA,ALTA
+118,3,1251.71,1203.85,Alcanzando,21.79,8.79,Barco,Pesquero,N/C,0.7813831633888376,Alcanzando,Barco,MEDIA,ALTA
+118,4,2466.88,555.28,Vuelta_encontrada,13.95,7.58,Ambos,Velero,N/C,3.307424793187771,Vuelta_encontrada,Ambos,ALTA,ALTA
+118,5,1733.52,424.3,Vuelta_encontrada,19.56,9.69,Ambos,Velero,N/C,1.7029736192068534,Vuelta_encontrada,Ambos,ALTA,ALTA
+118,6,2213.47,1064.46,Alcanzando,17.05,15.92,Barco,Motor,N/C,38.888103512869804,Alcanzando,Barco,MEDIA,ALTA
+118,7,1572.24,1369.67,Cruce_br,15.28,9.24,Contacto,Velero,No,1.184467376826497,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,ALTA
+118,8,7744.13,1090.62,Alcanzando,14.0,4.63,Barco,Motor,N/C,24.24284335565209,Alcanzando,Barco,BAJA,ALTA
+118,9,321.53,159.61,Vuelta_encontrada,10.9,6.78,Ambos,Velero,N/C,0.4677301219600031,Vuelta_encontrada,Ambos,ALTA,ALTA
+118,10,6346.74,1361.52,Cruce_er,19.6,18.85,Barco,Motor,N/C,7.807869568541302,Cruce_er,Barco,BAJA,ALTA
+118,11,595.0,96.84,Cruce_er_er,12.6,0.12,Niguno,Pesquero,N/C,1.3687974824403148,Cruce_er_er,Niguno,ALTA,ALTA
+118,12,1259.27,1253.33,Vuelta_encontrada,17.67,2.89,Ambos,Velero,N/C,0.1761031375615928,Vuelta_encontrada,Ambos,MEDIA,ALTA
+118,13,7904.02,1875.88,Cruce_br_br,17.76,13.4,Niguno,Pesquero,N/C,7.470174955699597,Cruce_br_br,Niguno,BAJA,ALTA
+118,14,2288.6,1935.9,Cruce_er,17.27,9.34,Barco,Motor,N/C,1.6584120161051816,Cruce_er,Barco,MEDIA,ALTA
+119,1,6256.69,1119.81,Cruce_br_br,12.11,13.83,Niguno,Pesquero,N/C,7.114880470782052,Cruce_br_br,Niguno,BAJA,ALTA
+119,2,4279.08,130.59,Vuelta_encontrada,15.72,25.63,Ambos,Motor,N/C,3.066167388238629,Vuelta_encontrada,Ambos,ALTA,ALTA
+119,3,1591.72,545.22,Cruce_er,10.2,6.08,Barco,Pesquero,N/C,3.710852323278452,Cruce_er,Barco,ALTA,ALTA
+120,1,798.61,563.58,Cruce_br_br,11.13,3.5,Niguno,Velero,N/C,1.152156813860946,Cruce_br_br,Niguno,ALTA,MEDIA
+120,2,8485.59,972.88,Alcanzado,9.48,11.97,Contacto,Pesquero,No,94.02377644242432,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+120,3,2157.48,1173.03,Vuelta_encontrada,12.16,31.66,Ambos,Motor,N/C,1.224152468851308,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+120,4,2831.48,58.9,Alcanzado,1.0,4.44,Contacto,Velero,Si,24.394737708365152,Alcanzado,Contacto,MEDIA,MEDIA
+120,5,1147.69,838.3,Vuelta_encontrada,10.22,9.86,Ambos,Pesquero,N/C,1.1566782726546294,Vuelta_encontrada,Ambos,ALTA,MEDIA
+120,6,2503.51,1486.45,Alcanzado,1.0,1.62,Contacto,Velero,No,96.09495221888996,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+120,7,768.21,297.54,Alcanzando,19.93,9.66,Barco,Velero,N/C,2.039838292884896,Alcanzando,Barco,ALTA,MEDIA
+120,8,676.91,3.48,Vuelta_encontrada,11.07,12.83,Ambos,Pesquero,N/C,0.8391740250624342,Vuelta_encontrada,Ambos,ALTA,MEDIA
+120,9,4500.31,1181.39,Alcanzado,1.0,1.26,Contacto,Velero,Si,493.3324367171654,Alcanzado,Contacto,MEDIA,MEDIA
+120,10,872.63,282.74,Cruce_br_br,10.68,12.36,Niguno,Pesquero,N/C,1.0680062645436517,Cruce_br_br,Niguno,ALTA,MEDIA
+120,11,4295.83,744.99,Vuelta_encontrada,18.29,12.5,Ambos,Pesquero,N/C,4.071633821612461,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+120,12,1705.39,925.82,Alcanzando,15.6,10.51,Barco,Motor,N/C,8.159500850453844,Alcanzando,Barco,MEDIA,MEDIA
+120,13,3146.12,214.86,Alcanzando,26.97,13.12,Barco,Pesquero,N/C,6.676777607824322,Alcanzando,Barco,MEDIA,MEDIA
+121,1,1654.63,1599.55,Cruce_er_er,12.76,2.14,Niguno,Velero,N/C,0.8516161027326183,Cruce_er_er,Niguno,MEDIA,MEDIA
+121,2,4751.46,327.28,Cruce_er,13.35,8.13,Barco,Velero,N/C,8.008630388648315,Cruce_er,Barco,MEDIA,MEDIA
+121,3,1611.52,1548.15,Cruce_br,17.07,4.52,Contacto,Velero,No,0.7548774792162255,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+121,4,3591.11,1613.37,Cruce_br,15.82,4.95,Contacto,Velero,Si,5.295925024191794,Cruce_br,Contacto,MEDIA,MEDIA
+121,5,8967.57,1821.2,Alcanzando,15.09,6.1,Barco,Motor,N/C,28.92076329721055,Alcanzando,Barco,BAJA,MEDIA
+121,6,5429.05,1365.54,Cruce_br,16.83,32.42,Contacto,Motor,No,3.94523179060456,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+122,1,832.12,782.82,Alcanzado,17.41,19.78,Contacto,Motor,Si,3.026829686215769,Alcanzado,Contacto,ALTA,ALTA
+122,2,1817.06,1786.08,Cruce_br_br,11.67,15.47,Niguno,Motor,N/C,0.3670152823480838,Cruce_br_br,Niguno,MEDIA,ALTA
+122,3,4224.88,409.89,Alcanzando,23.7,10.82,Barco,Pesquero,N/C,9.653215109031668,Alcanzando,Barco,ALTA,ALTA
+122,4,727.65,480.54,Alcanzando,20.02,6.09,Barco,Velero,N/C,1.1607723765511504,Alcanzando,Barco,ALTA,ALTA
+122,5,1093.93,756.63,Alcanzando,15.1,13.58,Barco,Motor,N/C,13.96846827705761,Alcanzando,Barco,MEDIA,ALTA
+122,6,1104.69,15.0,Cruce_er,10.76,4.97,Barco,Velero,N/C,2.591837248252695,Cruce_er,Barco,ALTA,ALTA
+122,7,1388.3,250.8,Cruce_er_er,18.7,13.68,Niguno,Motor,N/C,1.276813979632654,Cruce_er_er,Niguno,ALTA,ALTA
+122,8,4788.64,1075.9,Alcanzando,14.06,11.86,Barco,Motor,N/C,59.10352575081456,Alcanzando,Barco,BAJA,ALTA
+123,1,3359.92,1117.94,Cruce_er_er,17.21,9.09,Niguno,Pesquero,N/C,3.579134139252662,Cruce_er_er,Niguno,MEDIA,BAJA
+123,2,2830.75,1772.89,Alcanzado,1.0,5.07,Contacto,Pesquero,No,16.036887099650162,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,BAJA
+123,3,5029.92,1225.48,Cruce_br_br,16.35,1.71,Niguno,Pesquero,N/C,8.043188722215415,Cruce_br_br,Niguno,BAJA,BAJA
+123,4,1438.08,1190.96,Cruce_er,16.12,6.05,Barco,Motor,N/C,1.261711260302531,Cruce_er,Barco,MEDIA,BAJA
+123,5,1585.27,1515.12,Cruce_er,13.36,12.81,Barco,Motor,N/C,0.735429991495051,Cruce_er,Barco,MEDIA,BAJA
+123,6,6150.45,1838.83,Alcanzado,1.0,0.26,Contacto,Velero,Si,233.62959778644864,Alcanzado,Contacto,BAJA,BAJA
+123,7,6283.43,1622.93,Vuelta_encontrada,16.47,10.68,Ambos,Pesquero,N/C,6.624162082410284,Vuelta_encontrada,Ambos,BAJA,BAJA
+123,8,1012.61,168.3,Vuelta_encontrada,13.3,0.21,Ambos,Velero,N/C,2.1885631040733307,Vuelta_encontrada,Ambos,ALTA,BAJA
+123,9,1005.25,999.25,Alcanzado,1.0,5.82,Contacto,Velero,Si,0.6733550982869935,Alcanzado,Contacto,MEDIA,BAJA
+124,1,9090.07,330.27,Cruce_er_er,11.2,29.5,Niguno,Motor,N/C,6.681360372296745,Cruce_er_er,Niguno,MEDIA,MEDIA
+124,2,1655.01,1653.23,Cruce_br_br,19.54,1.11,Niguno,Velero,N/C,0.1104833140553245,Cruce_br_br,Niguno,MEDIA,MEDIA
+124,3,1612.24,394.85,Cruce_er_er,11.15,24.17,Niguno,Motor,N/C,1.340744363821769,Cruce_er_er,Niguno,ALTA,MEDIA
+124,4,8513.49,1604.26,Alcanzado,10.87,12.98,Contacto,Motor,Si,111.29959804531082,Alcanzado,Contacto,BAJA,MEDIA
+124,5,6164.17,1120.53,Alcanzando,16.34,3.42,Barco,Velero,N/C,13.892384465986542,Alcanzando,Barco,BAJA,MEDIA
+124,6,1916.54,1583.68,Alcanzado,1.0,6.29,Contacto,Velero,No,6.041053843479059,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+124,7,1078.9,968.59,Cruce_br,17.4,22.97,Contacto,Motor,No,0.4852939369485841,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+124,8,2450.38,400.14,Cruce_br_br,14.47,6.81,Niguno,Velero,N/C,3.370451238294648,Cruce_br_br,Niguno,ALTA,MEDIA
+124,9,2261.68,1161.29,Cruce_er,14.54,9.94,Barco,Pesquero,N/C,3.10024679888087,Cruce_er,Barco,MEDIA,MEDIA
+124,10,5048.94,1821.68,Vuelta_encontrada,16.77,5.21,Ambos,Velero,N/C,6.346343436688036,Vuelta_encontrada,Ambos,BAJA,MEDIA
+124,11,1483.6,1441.12,Cruce_br_br,18.96,5.9,Niguno,Pesquero,N/C,0.425222157847664,Cruce_br_br,Niguno,MEDIA,MEDIA
+124,12,551.66,428.25,Alcanzando,18.69,8.08,Barco,Velero,N/C,0.9688455052623078,Alcanzando,Barco,ALTA,MEDIA
+124,13,5797.86,1003.64,Vuelta_encontrada,17.23,5.65,Ambos,Pesquero,N/C,7.399387402991381,Vuelta_encontrada,Ambos,BAJA,MEDIA
+124,14,1889.24,422.25,Alcanzando,12.31,8.58,Barco,Motor,N/C,14.649627089317985,Alcanzando,Barco,MEDIA,MEDIA
+124,15,3033.5,1412.61,Cruce_br_br,12.37,17.74,Niguno,Motor,N/C,2.676703659005812,Cruce_br_br,Niguno,MEDIA,MEDIA
+124,16,1476.19,1433.01,Alcanzando,20.48,8.4,Barco,Velero,N/C,0.8668374725582209,Alcanzando,Barco,MEDIA,MEDIA
+124,17,1865.81,1165.19,Cruce_er_er,13.4,0.52,Niguno,Velero,N/C,3.1168524428813296,Cruce_er_er,Niguno,MEDIA,MEDIA
+124,18,5468.5,1311.76,Cruce_er,14.19,1.96,Barco,Pesquero,N/C,10.902186840608676,Cruce_er,Barco,BAJA,MEDIA
+125,1,2211.6,1067.42,Alcanzado,1.0,3.99,Contacto,Velero,Si,19.14037091043576,Alcanzado,Contacto,BAJA,BAJA
+125,2,6023.03,1764.23,Cruce_br_br,13.82,8.55,Niguno,Pesquero,N/C,7.649728167096685,Cruce_br_br,Niguno,BAJA,BAJA
+125,3,7419.88,934.72,Vuelta_encontrada,17.63,9.53,Ambos,Pesquero,N/C,8.03229554463425,Vuelta_encontrada,Ambos,MEDIA,BAJA
+125,4,4716.58,219.45,Cruce_br,14.42,4.15,Contacto,Velero,Si,9.41185041241833,Cruce_br,Contacto,MEDIA,BAJA
+126,1,8376.08,269.57,Alcanzado,17.44,25.07,Contacto,Motor,Si,32.424714943530624,Alcanzado,Contacto,MEDIA,MEDIA
+126,2,858.24,534.1,Cruce_br_br,19.11,5.38,Niguno,Motor,N/C,0.8180357353154826,Cruce_br_br,Niguno,MEDIA,MEDIA
+126,3,3497.26,1508.54,Alcanzado,19.79,21.1,Contacto,Motor,Si,70.69902225126397,Alcanzado,Contacto,BAJA,MEDIA
+126,4,2037.71,1796.15,Alcanzando,24.59,9.81,Barco,Pesquero,N/C,1.9298932500949413,Alcanzando,Barco,MEDIA,MEDIA
+126,5,385.16,105.99,Cruce_er_er,10.95,12.84,Niguno,Pesquero,N/C,0.4632030036818573,Cruce_er_er,Niguno,ALTA,MEDIA
+126,6,752.98,6.89,Alcanzado,1.0,1.6,Contacto,Velero,No,36.83960531590935,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+127,1,1830.93,741.61,Cruce_br,14.55,5.17,Contacto,Motor,No,3.076173345660008,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+127,2,4862.53,163.8,Cruce_br,16.09,31.63,Contacto,Motor,No,3.802262639210262,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+127,3,709.26,514.36,Cruce_er,19.91,2.21,Barco,Motor,N/C,0.6987285824024662,Cruce_er,Barco,ALTA,MEDIA
+127,4,9500.26,1507.16,Cruce_br,14.99,1.85,Contacto,Motor,Si,18.915961798043945,Cruce_br,Contacto,BAJA,MEDIA
+127,5,2696.07,1604.31,Alcanzando,17.16,13.61,Barco,Motor,N/C,17.755503129830736,Alcanzando,Barco,BAJA,MEDIA
+127,6,1975.95,1184.22,Alcanzando,12.14,4.4,Barco,Motor,N/C,6.050367162600559,Alcanzando,Barco,BAJA,MEDIA
+127,7,444.66,424.9,Alcanzando,14.27,11.73,Barco,Pesquero,N/C,1.4957845425165135,Alcanzando,Barco,ALTA,MEDIA
+127,8,6235.32,862.55,Cruce_br_br,14.17,2.94,Niguno,Pesquero,N/C,10.856932626674125,Cruce_br_br,Niguno,MEDIA,MEDIA
+127,9,2219.33,1409.66,Cruce_br,16.35,10.23,Contacto,Pesquero,Si,3.128805241001649,Cruce_br,Contacto,MEDIA,MEDIA
+127,10,2400.01,230.35,Alcanzando,22.21,12.41,Barco,Pesquero,N/C,7.210891131269752,Alcanzando,Barco,MEDIA,MEDIA
+127,11,9808.07,1487.28,Cruce_er,12.32,18.28,Barco,Motor,N/C,14.244141697790845,Cruce_er,Barco,BAJA,MEDIA
+127,12,1089.05,451.33,Alcanzado,6.49,10.04,Contacto,Pesquero,No,8.219293052253315,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+127,13,1884.62,932.82,Cruce_er_er,18.32,1.17,Niguno,Velero,N/C,2.4967062953948145,Cruce_er_er,Niguno,ALTA,MEDIA
+127,14,4239.94,976.52,Alcanzando,10.08,1.36,Barco,Motor,N/C,14.022648559136067,Alcanzando,Barco,MEDIA,MEDIA
+127,15,1521.39,1357.74,Cruce_er,11.85,11.24,Barco,Pesquero,N/C,1.3717208414284705,Cruce_er,Barco,MEDIA,MEDIA
+127,16,544.18,544.18,Alcanzado,1.0,7.02,Contacto,Velero,No,0.0018381954245431,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+127,17,2327.81,1209.26,Cruce_br_br,15.72,33.05,Niguno,Motor,N/C,1.2448047494871723,Cruce_br_br,Niguno,MEDIA,MEDIA
+127,18,825.01,696.15,Cruce_br,14.57,10.82,Contacto,Pesquero,Si,0.6381053311316123,Cruce_br,Contacto,MEDIA,MEDIA
+127,19,7982.13,37.51,Cruce_br,14.38,19.03,Contacto,Motor,No,11.173467622444432,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+128,1,2225.04,1957.08,Cruce_br_br,10.76,11.49,Niguno,Pesquero,N/C,1.4122084717458223,Cruce_br_br,Niguno,MEDIA,MEDIA
+128,2,767.46,35.35,Alcanzado,1.0,2.3,Contacto,Velero,No,17.41535259112333,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+128,3,2987.97,1982.7,Alcanzado,2.6,10.22,Contacto,Pesquero,Si,8.698901107833068,Alcanzado,Contacto,BAJA,MEDIA
+128,4,2266.19,386.86,Vuelta_encontrada,17.95,6.94,Ambos,Motor,N/C,2.658724520253899,Vuelta_encontrada,Ambos,ALTA,MEDIA
+128,5,8990.96,593.46,Vuelta_encontrada,18.85,4.49,Ambos,Velero,N/C,11.387880429237583,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+128,6,321.29,320.27,Cruce_br,19.97,30.86,Contacto,Motor,No,0.0182117055239406,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+128,7,833.15,817.38,Cruce_br_br,14.36,8.61,Niguno,Velero,N/C,0.213536626482595,Cruce_br_br,Niguno,MEDIA,MEDIA
+128,8,4944.24,1593.95,Alcanzado,7.3,12.1,Contacto,Pesquero,Si,28.869780931476804,Alcanzado,Contacto,BAJA,MEDIA
+129,1,7811.43,70.76,Cruce_er,13.09,6.37,Barco,Pesquero,N/C,17.265073959847715,Cruce_er,Barco,MEDIA,BAJA
+129,2,3336.11,1023.42,Alcanzando,13.5,6.77,Barco,Motor,N/C,13.887528129750535,Alcanzando,Barco,BAJA,BAJA
+129,3,812.48,811.83,Alcanzado,10.8,14.72,Contacto,Motor,Si,0.2415565697555243,Alcanzado,Contacto,ALTA,BAJA
+129,4,2332.36,1940.81,Cruce_er,13.57,8.32,Barco,Velero,N/C,2.220494062968384,Cruce_er,Barco,MEDIA,BAJA
+129,5,4144.63,1629.17,Alcanzando,13.34,6.38,Barco,Pesquero,N/C,16.206933048490914,Alcanzando,Barco,BAJA,BAJA
+129,6,3704.85,1041.88,Alcanzado,5.19,6.6,Contacto,Velero,Si,70.12721667858635,Alcanzado,Contacto,BAJA,BAJA
+129,7,721.09,329.5,Cruce_br,16.81,0.65,Contacto,Velero,No,1.131805895331184,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,BAJA
+129,8,7607.03,1551.68,Vuelta_encontrada,14.52,11.79,Ambos,Pesquero,N/C,8.392587480819888,Vuelta_encontrada,Ambos,BAJA,BAJA
+129,9,6109.47,1868.09,Cruce_er,19.0,6.79,Barco,Pesquero,N/C,8.576998045960583,Cruce_er,Barco,BAJA,BAJA
+130,1,1646.49,1491.1,Cruce_er,10.38,0.83,Barco,Motor,N/C,1.9619518348581284,Cruce_er,Barco,MEDIA,MEDIA
+130,2,8000.01,1918.86,Vuelta_encontrada,14.09,3.16,Ambos,Pesquero,N/C,13.347332417739445,Vuelta_encontrada,Ambos,BAJA,MEDIA
+130,3,300.9,113.9,Alcanzando,9.96,5.08,Barco,Pesquero,N/C,1.690768165157821,Alcanzando,Barco,ALTA,MEDIA
+130,4,2322.1,722.18,Cruce_br,10.76,18.55,Contacto,Motor,No,3.067914509296077,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+130,5,2471.14,1325.2,Cruce_br,12.29,1.7,Contacto,Velero,No,4.8250084160844775,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+130,6,329.95,306.6,Alcanzado,1.0,4.57,Contacto,Pesquero,Si,1.0117328737157694,Alcanzado,Contacto,ALTA,MEDIA
+130,7,4731.98,1219.0,Vuelta_encontrada,16.1,9.07,Ambos,Motor,N/C,5.384216141474699,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+130,8,707.79,497.9,Alcanzado,1.0,3.87,Contacto,Velero,No,5.199426729277804,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+130,9,1213.38,467.01,Cruce_er_er,11.43,2.33,Niguno,Pesquero,N/C,2.421568493429623,Cruce_er_er,Niguno,ALTA,MEDIA
+130,10,2341.96,1547.41,Cruce_er,19.59,2.93,Barco,Velero,N/C,2.5304695062288727,Cruce_er,Barco,MEDIA,MEDIA
+130,11,2637.81,894.33,Alcanzado,10.94,18.19,Contacto,Motor,Si,10.13654587174858,Alcanzado,Contacto,MEDIA,MEDIA
+130,12,1847.05,1843.89,Vuelta_encontrada,17.57,0.67,Ambos,Velero,N/C,0.1753436038788271,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+130,13,236.92,54.72,Cruce_er,11.11,3.27,Barco,Pesquero,N/C,0.6043465875849904,Cruce_er,Barco,ALTA,MEDIA
+130,14,5834.84,1827.27,Cruce_er,13.8,13.5,Barco,Pesquero,N/C,8.477950405031935,Cruce_er,Barco,BAJA,MEDIA
+130,15,9986.64,728.18,Alcanzado,18.97,22.77,Contacto,Motor,Si,77.29613988733787,Alcanzado,Contacto,BAJA,MEDIA
+130,16,7107.26,223.55,Alcanzando,8.57,3.98,Barco,Velero,N/C,45.68020178928596,Alcanzando,Barco,MEDIA,MEDIA
+130,17,6686.43,475.34,Cruce_br,11.21,7.97,Contacto,Velero,Si,16.302538635915507,Cruce_br,Contacto,MEDIA,MEDIA
+130,18,2699.06,1817.62,Alcanzando,16.34,7.52,Barco,Motor,N/C,6.665201118635372,Alcanzando,Barco,BAJA,MEDIA
+130,19,6926.73,833.32,Vuelta_encontrada,14.12,9.39,Ambos,Motor,N/C,8.667850235250782,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+131,1,1259.61,1254.39,Vuelta_encontrada,13.98,0.58,Ambos,Velero,N/C,0.233069980853508,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+131,2,7408.03,1128.35,Vuelta_encontrada,12.78,3.06,Ambos,Pesquero,N/C,13.694385166738916,Vuelta_encontrada,Ambos,BAJA,MEDIA
+131,3,9357.13,1606.07,Cruce_br,16.47,6.35,Contacto,Motor,No,15.188075590927724,Cruce_br si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+131,4,9150.66,1124.28,Vuelta_encontrada,13.55,2.99,Ambos,Motor,N/C,16.27112939218344,Vuelta_encontrada,Ambos,BAJA,MEDIA
+131,5,2606.26,891.29,Vuelta_encontrada,15.62,9.32,Ambos,Pesquero,N/C,2.910633158771402,Vuelta_encontrada,Ambos,ALTA,MEDIA
+131,6,1051.18,1041.04,Vuelta_encontrada,13.84,25.65,Ambos,Motor,N/C,0.1092750189735567,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+131,7,5653.67,1954.71,Alcanzando,3.9,1.32,Barco,Velero,N/C,60.943787608998015,Alcanzando,Barco,BAJA,MEDIA
+131,8,2480.52,847.78,Cruce_br_br,14.97,4.86,Niguno,Velero,N/C,3.504093302936539,Cruce_br_br,Niguno,ALTA,MEDIA
+131,9,1838.22,1644.19,Cruce_er_er,14.8,2.58,Niguno,Pesquero,N/C,1.4236078843330662,Cruce_er_er,Niguno,MEDIA,MEDIA
+131,10,7769.24,148.27,Vuelta_encontrada,11.48,7.11,Ambos,Velero,N/C,12.382839919375678,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+131,11,4018.78,1598.66,Cruce_br,12.31,5.64,Contacto,Velero,Si,7.876223122095674,Cruce_br,Contacto,BAJA,MEDIA
+131,12,962.21,605.63,Vuelta_encontrada,10.05,1.32,Ambos,Velero,N/C,1.9493910476423,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+131,13,728.84,538.76,Cruce_br_br,13.38,9.83,Niguno,Velero,N/C,0.6410186134169538,Cruce_br_br,Niguno,MEDIA,MEDIA
+131,14,680.18,342.13,Cruce_br,12.21,0.65,Contacto,Velero,No,1.4074284394804168,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+131,15,670.42,34.96,Cruce_er,18.42,6.73,Barco,Motor,N/C,1.0036813420220685,Cruce_er,Barco,ALTA,MEDIA
+131,16,1054.31,747.62,Cruce_er_er,18.51,3.43,Niguno,Velero,N/C,1.0166043149912076,Cruce_er_er,Niguno,ALTA,MEDIA
+131,17,1549.27,1360.87,Cruce_br_br,12.12,7.0,Niguno,Velero,N/C,1.1563401154334574,Cruce_br_br,Niguno,MEDIA,MEDIA
+131,18,5775.3,1678.92,Vuelta_encontrada,15.97,25.71,Ambos,Motor,N/C,3.929228535207601,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+131,19,3914.92,810.68,Cruce_er,17.67,27.33,Barco,Motor,N/C,3.1681218756863947,Cruce_er,Barco,MEDIA,MEDIA
+131,20,3064.05,290.27,Vuelta_encontrada,11.33,12.27,Ambos,Pesquero,N/C,3.829372687529237,Vuelta_encontrada,Ambos,ALTA,MEDIA
+132,1,2284.78,893.43,Cruce_er_er,11.93,26.75,Niguno,Motor,N/C,1.6435539445342366,Cruce_er_er,Niguno,MEDIA,MEDIA
+132,2,1945.16,1381.0,Cruce_br,12.26,5.97,Contacto,Pesquero,No,2.80639523505462,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+132,3,6943.89,1268.12,Cruce_br_br,14.37,9.93,Niguno,Velero,N/C,8.487984125266347,Cruce_br_br,Niguno,BAJA,MEDIA
+132,4,2338.63,780.44,Cruce_er_er,14.7,7.1,Niguno,Pesquero,N/C,3.001953553003264,Cruce_er_er,Niguno,ALTA,MEDIA
+132,5,1351.41,420.32,Vuelta_encontrada,15.48,7.86,Ambos,Velero,N/C,1.6317252129330793,Vuelta_encontrada,Ambos,ALTA,MEDIA
+132,6,1638.99,1635.31,Alcanzado,5.91,13.34,Contacto,Pesquero,No,0.4352504217258684,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+133,1,1640.22,1480.56,Vuelta_encontrada,12.39,0.01,Ambos,Pesquero,N/C,1.6873525749764515,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+133,2,506.2,232.25,Cruce_br_br,18.33,9.32,Niguno,Motor,N/C,0.483367121131099,Cruce_br_br,Niguno,ALTA,MEDIA
+133,3,1109.57,1087.09,Cruce_er,15.33,5.07,Barco,Velero,N/C,0.4148700625760458,Cruce_er,Barco,MEDIA,MEDIA
+133,4,2364.78,569.33,Cruce_br_br,11.71,25.16,Niguno,Motor,N/C,1.8722791111284367,Cruce_br_br,Niguno,MEDIA,MEDIA
+133,5,3080.26,1465.93,Alcanzado,15.18,21.64,Contacto,Motor,No,12.298149531567622,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+133,6,797.38,658.94,Alcanzando,11.77,8.71,Barco,Motor,N/C,4.304924486506901,Alcanzando,Barco,MEDIA,MEDIA
+133,7,206.96,19.63,Cruce_er,12.93,8.12,Barco,Velero,N/C,0.3787210401179566,Cruce_er,Barco,ALTA,MEDIA
+133,8,252.98,54.48,Cruce_er,16.28,8.82,Barco,Velero,N/C,0.4642225917267794,Cruce_er,Barco,ALTA,MEDIA
+133,9,3438.79,1047.71,Cruce_er,11.24,1.72,Barco,Motor,N/C,8.85700943059864,Cruce_er,Barco,BAJA,MEDIA
+133,10,1526.79,555.38,Cruce_er_er,15.12,10.61,Niguno,Pesquero,N/C,1.6439630759201238,Cruce_er_er,Niguno,ALTA,MEDIA
+133,11,3044.38,282.62,Cruce_er_er,13.79,9.47,Niguno,Velero,N/C,3.898286592361116,Cruce_er_er,Niguno,ALTA,MEDIA
+133,12,2793.65,1290.87,Alcanzando,17.87,12.54,Barco,Motor,N/C,13.692259239401292,Alcanzando,Barco,BAJA,MEDIA
+133,13,1402.58,795.54,Cruce_br,12.2,5.46,Contacto,Velero,Si,2.965778118076343,Cruce_br,Contacto,ALTA,MEDIA
+133,14,613.1,612.85,Cruce_er,12.8,5.98,Barco,Velero,N/C,0.0421595439977672,Cruce_er,Barco,MEDIA,MEDIA
+133,15,1975.72,1229.37,Vuelta_encontrada,14.83,9.22,Ambos,Velero,N/C,1.9059770419328592,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+133,16,2674.62,1161.07,Cruce_br,10.6,32.75,Contacto,Motor,Si,1.9901152687025765,Cruce_br,Contacto,MEDIA,MEDIA
+133,17,6144.95,770.01,Cruce_er,11.67,5.35,Barco,Pesquero,N/C,13.036222238109977,Cruce_er,Barco,MEDIA,MEDIA
+133,18,1372.31,441.38,Alcanzado,1.0,4.35,Contacto,Velero,Si,11.475072167655265,Alcanzado,Contacto,MEDIA,MEDIA
+133,19,1297.03,709.23,Cruce_er,16.5,0.29,Barco,Motor,N/C,1.9563268654041563,Cruce_er,Barco,ALTA,MEDIA
+133,20,1114.27,249.82,Cruce_br_br,13.83,19.05,Niguno,Motor,N/C,0.988707304260198,Cruce_br_br,Niguno,ALTA,MEDIA
+134,1,221.64,202.35,Cruce_er_er,10.75,5.28,Niguno,Pesquero,N/C,0.1673693248614169,Cruce_er_er,Niguno,ALTA,BAJA
+134,2,2703.43,605.99,Cruce_br,16.99,34.41,Contacto,Motor,Si,2.293466290770944,Cruce_br,Contacto,ALTA,BAJA
+134,3,4571.31,1178.26,Alcanzando,11.82,8.81,Barco,Motor,N/C,42.57114969422784,Alcanzando,Barco,BAJA,BAJA
+134,4,4178.56,1055.85,Cruce_br,19.02,0.16,Contacto,Pesquero,Si,6.28849047053116,Cruce_br,Contacto,MEDIA,BAJA
+134,5,700.54,693.99,Alcanzado,11.97,17.87,Contacto,Motor,Si,0.4793336735788289,Alcanzado,Contacto,MEDIA,BAJA
+134,6,1478.38,1471.04,Alcanzando,19.4,17.67,Barco,Motor,N/C,2.5209242371557057,Alcanzando,Barco,MEDIA,BAJA
+134,7,5407.64,971.98,Cruce_br_br,13.41,28.09,Niguno,Motor,N/C,3.834153656166994,Cruce_br_br,Niguno,MEDIA,BAJA
+134,8,2952.02,1111.79,Alcanzado,1.0,6.24,Contacto,Velero,No,15.472320322378032,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,BAJA
+134,9,3566.84,111.29,Cruce_er_er,13.99,22.52,Niguno,Motor,N/C,2.9059765052913744,Cruce_er_er,Niguno,ALTA,BAJA
+134,10,7897.7,1488.44,Cruce_br,12.95,13.24,Contacto,Motor,Si,13.263215468057126,Cruce_br,Contacto,BAJA,BAJA
+134,11,2597.5,1380.93,Cruce_br,17.54,7.85,Contacto,Velero,No,3.063455076719633,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,BAJA
+134,12,5947.27,1602.63,Cruce_er_er,14.69,34.65,Niguno,Motor,N/C,3.453177054152816,Cruce_er_er,Niguno,BAJA,BAJA
+134,13,4781.85,1267.84,Cruce_br,11.62,2.91,Contacto,Pesquero,Si,12.209508170499358,Cruce_br,Contacto,BAJA,BAJA
+135,1,4192.07,1637.45,Vuelta_encontrada,17.51,1.6,Ambos,Pesquero,N/C,5.984425021506509,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+135,2,2045.4,1843.08,Vuelta_encontrada,15.59,22.66,Ambos,Motor,N/C,0.6870580114773805,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+135,3,1271.27,1034.02,Cruce_br,13.24,2.81,Contacto,Velero,Si,1.681240124426041,Cruce_br,Contacto,MEDIA,MEDIA
+136,1,1134.46,1067.85,Cruce_br,10.55,14.21,Contacto,Pesquero,No,0.593993879909257,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+136,2,1860.42,1558.49,Alcanzando,11.83,8.47,Barco,Motor,N/C,8.741852187814253,Alcanzando,Barco,BAJA,MEDIA
+136,3,1746.56,1657.18,Vuelta_encontrada,16.56,32.42,Ambos,Motor,N/C,0.3337160174662878,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+136,4,3481.68,931.6,Cruce_br_br,14.04,0.14,Niguno,Pesquero,N/C,7.016573466856667,Cruce_br_br,Niguno,MEDIA,MEDIA
+136,5,1891.98,1773.89,Cruce_br,19.42,12.85,Contacto,Pesquero,Si,1.007317606675153,Cruce_br,Contacto,MEDIA,MEDIA
+136,6,4277.73,1532.14,Cruce_er,12.5,6.8,Barco,Motor,N/C,8.204915925742435,Cruce_er,Barco,BAJA,MEDIA
+136,7,1745.38,1732.3,Alcanzando,25.78,14.18,Barco,Pesquero,N/C,0.54411502069151,Alcanzando,Barco,MEDIA,MEDIA
+136,8,4744.64,381.46,Vuelta_encontrada,10.63,33.3,Ambos,Motor,N/C,3.1903903253731487,Vuelta_encontrada,Ambos,ALTA,MEDIA
+136,9,2097.49,1645.52,Cruce_er,11.37,33.71,Barco,Motor,N/C,1.1179853239671105,Cruce_er,Barco,MEDIA,MEDIA
+136,10,4789.89,1411.98,Alcanzado,1.64,4.3,Contacto,Velero,Si,50.90578831094934,Alcanzado,Contacto,BAJA,MEDIA
+136,11,760.36,497.48,Cruce_er_er,12.2,8.03,Niguno,Velero,N/C,0.8461742035439754,Cruce_er_er,Niguno,ALTA,MEDIA
+136,12,1057.3,993.71,Cruce_br_br,18.65,17.65,Niguno,Motor,N/C,0.2989834259856349,Cruce_br_br,Niguno,MEDIA,MEDIA
+136,13,475.1,467.26,Alcanzando,25.61,10.66,Barco,Pesquero,N/C,0.1704076541700936,Alcanzando,Barco,ALTA,MEDIA
+136,14,2002.03,1969.89,Alcanzado,18.32,19.49,Contacto,Motor,No,8.255143020785646,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+136,15,207.3,144.88,Alcanzado,2.4,9.56,Contacto,Pesquero,Si,0.6140956886936848,Alcanzado,Contacto,ALTA,MEDIA
+137,1,1818.43,1773.64,Cruce_br_br,12.04,7.16,Niguno,Velero,N/C,0.635457484373669,Cruce_br_br,Niguno,MEDIA,MEDIA
+137,2,451.54,375.13,Cruce_br_br,18.81,7.59,Niguno,Pesquero,N/C,0.2868491815547619,Cruce_br_br,Niguno,ALTA,MEDIA
+138,1,601.69,600.59,Alcanzado,1.0,1.26,Contacto,Pesquero,No,4.102900597729623,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+138,2,2442.93,434.51,Alcanzando,5.52,3.97,Barco,Velero,N/C,45.257178432275104,Alcanzando,Barco,MEDIA,MEDIA
+138,3,3795.57,1819.41,Vuelta_encontrada,12.71,4.82,Ambos,Motor,N/C,5.634580847115603,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+138,4,382.06,81.82,Alcanzando,13.47,2.78,Barco,Pesquero,N/C,1.0341176757004464,Alcanzando,Barco,ALTA,MEDIA
+138,5,1964.21,771.04,Alcanzado,18.85,28.77,Contacto,Motor,No,5.381718074652601,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+139,1,2917.14,51.67,Vuelta_encontrada,12.25,4.37,Ambos,Velero,N/C,5.201535592174056,Vuelta_encontrada,Ambos,ALTA,MEDIA
+139,2,7466.37,1347.56,Alcanzado,1.0,8.24,Contacto,Velero,Si,30.03377413839812,Alcanzado,Contacto,BAJA,MEDIA
+139,3,249.07,247.9,Cruce_er_er,17.43,28.91,Niguno,Motor,N/C,0.0154586764434057,Cruce_er_er,Niguno,ALTA,MEDIA
+139,4,1319.79,1080.88,Vuelta_encontrada,16.5,11.9,Ambos,Pesquero,N/C,0.790186057700183,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+139,5,9025.69,748.02,Alcanzado,1.0,3.95,Contacto,Velero,No,90.20840166500766,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+139,6,367.49,34.21,Cruce_br_br,17.05,24.55,Niguno,Motor,N/C,0.2674089583415401,Cruce_br_br,Niguno,ALTA,MEDIA
+139,7,1100.04,719.4,Cruce_er_er,17.43,0.27,Niguno,Velero,N/C,1.394340142685128,Cruce_er_er,Niguno,MEDIA,MEDIA
+139,8,1790.95,1772.82,Cruce_br_br,18.16,4.12,Niguno,Motor,N/C,0.3388941838248759,Cruce_br_br,Niguno,MEDIA,MEDIA
+139,9,1745.87,1719.85,Cruce_br,18.2,2.99,Contacto,Velero,Si,0.463207507542252,Cruce_br,Contacto,MEDIA,MEDIA
+139,10,7438.56,1513.33,Vuelta_encontrada,12.95,0.89,Ambos,Velero,N/C,15.595327626722822,Vuelta_encontrada,Ambos,BAJA,MEDIA
+139,11,1030.36,369.56,Alcanzado,1.0,0.36,Contacto,Pesquero,Si,44.71061357064268,Alcanzado,Contacto,MEDIA,MEDIA
+139,12,8582.94,990.35,Cruce_er,10.72,4.31,Barco,Motor,N/C,20.45527399734484,Cruce_er,Barco,BAJA,MEDIA
+139,13,393.15,77.69,Cruce_br,12.86,22.74,Contacto,Motor,Si,0.4147417323587366,Cruce_br,Contacto,ALTA,MEDIA
+139,14,2521.7,1004.82,Cruce_br_br,17.97,23.89,Niguno,Motor,N/C,1.656211175881794,Cruce_br_br,Niguno,MEDIA,MEDIA
+139,15,491.59,220.46,Alcanzado,16.41,24.17,Contacto,Motor,No,1.650415140705933,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+139,16,1951.98,1330.04,Cruce_br,17.05,6.9,Contacto,Velero,Si,2.070316086382889,Cruce_br,Contacto,MEDIA,MEDIA
+140,1,4427.36,1556.79,Vuelta_encontrada,10.05,5.04,Ambos,Pesquero,N/C,8.141891134849793,Vuelta_encontrada,Ambos,BAJA,ALTA
+140,2,1231.8,557.77,Cruce_er,16.28,1.43,Barco,Velero,N/C,1.9837152736869463,Cruce_er,Barco,ALTA,ALTA
+140,3,1275.26,1207.91,Cruce_br_br,12.73,8.5,Niguno,Velero,N/C,0.5851243532300867,Cruce_br_br,Niguno,MEDIA,ALTA
+140,4,1037.32,335.06,Alcanzando,17.58,8.28,Barco,Motor,N/C,3.110933806910637,Alcanzando,Barco,ALTA,ALTA
+140,5,6943.88,692.14,Cruce_er,19.58,14.68,Barco,Pesquero,N/C,7.28607698242407,Cruce_er,Barco,MEDIA,ALTA
+140,6,9499.57,1936.78,Alcanzando,8.95,4.44,Barco,Velero,N/C,60.98615550383494,Alcanzando,Barco,BAJA,ALTA
+140,7,6710.52,1839.22,Cruce_er_er,12.44,6.9,Niguno,Motor,N/C,9.911936205789782,Cruce_er_er,Niguno,BAJA,ALTA
+140,8,1213.71,1033.81,Vuelta_encontrada,15.65,0.0,Ambos,Velero,N/C,1.2037942138477384,Vuelta_encontrada,Ambos,MEDIA,ALTA
+140,9,785.79,542.92,Cruce_er,15.74,7.8,Barco,Velero,N/C,0.8806268457565889,Cruce_er,Barco,MEDIA,ALTA
+140,10,1629.61,646.43,Alcanzando,10.26,1.53,Barco,Motor,N/C,5.078872565582109,Alcanzando,Barco,ALTA,ALTA
+140,11,1436.55,300.27,Cruce_br_br,15.45,2.56,Niguno,Pesquero,N/C,2.31314259639322,Cruce_br_br,Niguno,ALTA,ALTA
+140,12,9140.48,1375.69,Alcanzando,11.94,8.2,Barco,Pesquero,N/C,71.15377430947903,Alcanzando,Barco,BAJA,ALTA
+140,13,244.61,82.84,Cruce_br_br,19.4,11.89,Niguno,Pesquero,N/C,0.2190288326888955,Cruce_br_br,Niguno,ALTA,ALTA
+140,14,1730.18,838.39,Cruce_br_br,17.32,29.26,Niguno,Motor,N/C,0.973032587109784,Cruce_br_br,Niguno,ALTA,ALTA
+140,15,9865.39,430.07,Vuelta_encontrada,13.3,12.51,Ambos,Motor,N/C,11.31798908307761,Vuelta_encontrada,Ambos,MEDIA,ALTA
+140,16,639.5,408.95,Cruce_br_br,11.12,6.35,Niguno,Motor,N/C,0.8593549315487355,Cruce_br_br,Niguno,ALTA,ALTA
+140,17,1191.52,60.65,Alcanzando,8.21,1.74,Barco,Velero,N/C,5.445629500366291,Alcanzando,Barco,ALTA,ALTA
+140,18,5653.66,70.55,Vuelta_encontrada,13.55,10.42,Ambos,Pesquero,N/C,6.987466404441891,Vuelta_encontrada,Ambos,ALTA,ALTA
+141,1,4862.72,1476.6,Alcanzado,19.31,21.63,Contacto,Motor,No,47.6646580975076,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+141,2,719.42,83.7,Alcanzando,24.79,13.03,Barco,Pesquero,N/C,1.8002668343235086,Alcanzando,Barco,ALTA,MEDIA
+141,3,3444.78,1951.96,Alcanzado,1.0,7.72,Contacto,Velero,No,12.519107250009052,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+141,4,5360.08,854.8,Alcanzado,1.0,0.17,Contacto,Pesquero,Si,188.44530841137947,Alcanzado,Contacto,MEDIA,MEDIA
+141,5,9654.92,1982.26,Cruce_er_er,12.97,6.66,Niguno,Motor,N/C,14.609039174276614,Cruce_er_er,Niguno,BAJA,MEDIA
+141,6,315.12,13.2,Cruce_br,11.92,17.17,Contacto,Motor,No,0.4769729158576923,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+141,7,2505.85,1994.74,Vuelta_encontrada,16.96,7.3,Ambos,Velero,N/C,1.8528883149663469,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+141,8,5909.96,86.09,Cruce_er,14.08,2.53,Barco,Pesquero,N/C,11.575389680031302,Cruce_er,Barco,MEDIA,MEDIA
+141,9,2165.01,1847.51,Alcanzando,23.89,9.69,Barco,Pesquero,N/C,2.3500448254296726,Alcanzando,Barco,MEDIA,MEDIA
+141,10,1092.63,1083.16,Cruce_er,10.17,26.47,Barco,Motor,N/C,0.1589145716644365,Cruce_er,Barco,MEDIA,MEDIA
+141,11,8636.89,935.77,Cruce_er,19.13,5.56,Barco,Velero,N/C,11.946281465468829,Cruce_er,Barco,MEDIA,MEDIA
+141,12,3464.44,1300.1,Cruce_er,12.48,1.94,Barco,Motor,N/C,7.932598730313665,Cruce_er,Barco,BAJA,MEDIA
+141,13,3374.67,1445.29,Alcanzando,16.4,8.46,Barco,Velero,N/C,11.343645564395862,Alcanzando,Barco,BAJA,MEDIA
+141,14,7500.47,893.78,Vuelta_encontrada,14.02,5.44,Ambos,Velero,N/C,11.348899544758108,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+141,15,3079.8,872.71,Vuelta_encontrada,10.41,4.63,Ambos,Velero,N/C,5.824233017225958,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+141,16,3510.88,1996.48,Alcanzando,13.74,2.14,Barco,Velero,N/C,7.376815076661843,Alcanzando,Barco,MEDIA,MEDIA
+141,17,357.81,352.73,Cruce_br_br,11.28,4.22,Niguno,Motor,N/C,0.1154109262882718,Cruce_br_br,Niguno,ALTA,MEDIA
+141,18,1604.18,1494.78,Cruce_br,14.03,2.36,Contacto,Velero,No,1.2095964911079569,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+141,19,7013.85,353.17,Alcanzando,10.31,5.25,Barco,Velero,N/C,40.90055862279612,Alcanzando,Barco,MEDIA,MEDIA
+142,1,504.2,198.66,Vuelta_encontrada,12.46,0.28,Ambos,Velero,N/C,1.0774339722161996,Vuelta_encontrada,Ambos,ALTA,MEDIA
+142,2,1863.08,1859.39,Alcanzado,1.0,2.16,Contacto,Pesquero,No,2.9877396358938,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+142,3,9922.64,301.28,Vuelta_encontrada,14.11,13.51,Ambos,Pesquero,N/C,10.6442128550876,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+142,4,4931.74,141.35,Alcanzado,12.58,20.54,Contacto,Motor,No,18.206391467248068,Alcanzado si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+142,5,2940.19,1950.23,Cruce_br_br,18.3,14.63,Niguno,Motor,N/C,1.9868707648217867,Cruce_br_br,Niguno,MEDIA,MEDIA
+142,6,1217.39,1090.47,Vuelta_encontrada,14.13,13.06,Ambos,Pesquero,N/C,0.5896974744937441,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+142,7,6706.61,80.52,Alcanzado,17.37,25.76,Contacto,Motor,No,23.646947526788672,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+142,8,646.2,543.69,Alcanzando,10.66,0.85,Barco,Velero,N/C,1.0550723205121502,Alcanzando,Barco,ALTA,MEDIA
+143,1,976.31,779.65,Cruce_er_er,14.87,6.93,Niguno,Velero,N/C,0.802842130444294,Cruce_er_er,Niguno,MEDIA,MEDIA
+143,2,3783.62,311.72,Alcanzando,10.67,1.21,Barco,Pesquero,N/C,11.808710615223196,Alcanzando,Barco,MEDIA,MEDIA
+143,3,1805.79,717.56,Vuelta_encontrada,11.41,22.22,Ambos,Motor,N/C,1.460498727274122,Vuelta_encontrada,Ambos,ALTA,MEDIA
+143,4,9357.13,1606.07,Cruce_br,16.47,6.35,Contacto,Motor,No,15.188075590927724,Cruce_br si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+143,5,1527.89,155.48,Vuelta_encontrada,16.41,33.74,Ambos,Motor,N/C,0.8981587355579398,Vuelta_encontrada,Ambos,ALTA,MEDIA
+143,6,3779.0,601.07,Cruce_br,19.24,6.13,Contacto,Pesquero,Si,5.879294076333806,Cruce_br,Contacto,ALTA,MEDIA
+143,7,1009.41,756.05,Cruce_er,17.41,10.85,Barco,Motor,N/C,0.8946074428178218,Cruce_er,Barco,MEDIA,MEDIA
+143,8,6367.08,324.47,Alcanzando,18.92,13.92,Barco,Motor,N/C,37.44918652708839,Alcanzando,Barco,MEDIA,MEDIA
+143,9,3986.56,571.52,Alcanzando,11.29,3.11,Barco,Motor,N/C,14.27767953420259,Alcanzando,Barco,MEDIA,MEDIA
+144,1,678.73,358.27,Alcanzando,17.67,7.24,Barco,Velero,N/C,1.6327243240805942,Alcanzando,Barco,ALTA,ALTA
+144,2,919.52,296.58,Alcanzando,15.23,7.84,Barco,Pesquero,N/C,3.475381333262418,Alcanzando,Barco,ALTA,ALTA
+144,3,1754.64,850.79,Cruce_br,10.26,7.21,Contacto,Motor,Si,3.243787473854225,Cruce_br,Contacto,ALTA,ALTA
+144,4,457.08,455.71,Alcanzando,16.88,6.85,Barco,Velero,N/C,0.104333405476581,Alcanzando,Barco,ALTA,ALTA
+144,5,998.17,935.35,Alcanzado,18.61,23.11,Contacto,Motor,Si,2.275355870405132,Alcanzado,Contacto,ALTA,ALTA
+144,6,5726.13,345.48,Cruce_er_er,18.31,9.04,Niguno,Motor,N/C,6.253170411538425,Cruce_er_er,Niguno,ALTA,ALTA
+144,7,864.12,282.42,Cruce_er,18.04,0.88,Barco,Velero,N/C,1.3288202307992596,Cruce_er,Barco,ALTA,ALTA
+144,8,571.74,506.08,Cruce_er,17.61,1.8,Barco,Velero,N/C,0.4469910350651765,Cruce_er,Barco,ALTA,ALTA
+144,9,9826.35,1111.73,Cruce_er,13.94,8.7,Barco,Pesquero,N/C,20.429124759928524,Cruce_er,Barco,BAJA,ALTA
+144,10,993.77,874.55,Cruce_br_br,13.6,5.18,Niguno,Velero,N/C,0.7584891237992384,Cruce_br_br,Niguno,ALTA,ALTA
+144,11,6209.02,886.58,Cruce_er,19.05,3.79,Barco,Motor,N/C,9.522177622446907,Cruce_er,Barco,MEDIA,ALTA
+144,12,1191.35,1189.19,Cruce_br_br,18.96,18.55,Niguno,Motor,N/C,0.0582013881984927,Cruce_br_br,Niguno,MEDIA,ALTA
+144,13,5188.46,1580.13,Alcanzado,12.8,21.65,Contacto,Motor,No,16.34201219379345,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,ALTA
+144,14,2693.4,1828.78,Cruce_br_br,12.84,25.66,Niguno,Motor,N/C,1.528590277711088,Cruce_br_br,Niguno,MEDIA,ALTA
+145,1,1635.62,1617.62,Alcanzando,10.96,7.96,Barco,Velero,N/C,2.3721567063098368,Alcanzando,Barco,MEDIA,MEDIA
+145,2,1004.39,288.3,Alcanzado,1.0,4.61,Contacto,Pesquero,No,7.8922251594769985,Alcanzado si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+145,3,2673.96,308.25,Cruce_er,13.53,0.55,Barco,Velero,N/C,5.825278091656156,Cruce_er,Barco,ALTA,MEDIA
+145,4,248.33,140.44,Cruce_br_br,16.67,0.53,Niguno,Velero,N/C,0.3532264079944537,Cruce_br_br,Niguno,ALTA,MEDIA
+145,5,1422.84,778.46,Alcanzado,17.26,25.27,Contacto,Motor,Si,4.306013631159398,Alcanzado,Contacto,MEDIA,MEDIA
+146,1,911.89,634.98,Cruce_br,16.71,6.51,Contacto,Pesquero,No,1.07307915643232,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+146,2,2466.1,1296.97,Alcanzado,1.0,7.26,Contacto,Velero,Si,9.925142705792672,Alcanzado,Contacto,BAJA,MEDIA
+146,3,5279.45,640.42,Cruce_er_er,17.72,1.13,Niguno,Pesquero,N/C,8.239105769664905,Cruce_er_er,Niguno,MEDIA,MEDIA
+146,4,5239.36,6.13,Cruce_br_br,11.72,3.18,Niguno,Pesquero,N/C,10.663061753360198,Cruce_br_br,Niguno,MEDIA,MEDIA
+146,5,3162.37,1639.65,Cruce_er_er,14.11,12.05,Niguno,Motor,N/C,3.1146418619467604,Cruce_er_er,Niguno,MEDIA,MEDIA
+146,6,1843.49,39.72,Vuelta_encontrada,15.01,2.85,Ambos,Pesquero,N/C,3.058094470373171,Vuelta_encontrada,Ambos,ALTA,MEDIA
+146,7,4284.93,590.95,Cruce_er,10.92,24.99,Barco,Motor,N/C,4.2713940171258935,Cruce_er,Barco,MEDIA,MEDIA
+146,8,3014.17,1687.58,Alcanzado,11.43,13.42,Contacto,Pesquero,Si,35.99654039814458,Alcanzado,Contacto,BAJA,MEDIA
+146,9,3316.16,625.93,Cruce_br_br,15.19,13.7,Niguno,Motor,N/C,3.4069904863617704,Cruce_br_br,Niguno,MEDIA,MEDIA
+146,10,1929.51,1519.87,Alcanzado,1.0,6.49,Contacto,Velero,Si,6.415303927141959,Alcanzado,Contacto,BAJA,MEDIA
+146,11,1601.72,1017.51,Vuelta_encontrada,10.49,0.84,Ambos,Pesquero,N/C,3.234837447542446,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+146,12,612.44,460.34,Alcanzando,8.42,6.03,Barco,Pesquero,N/C,4.991499064058341,Alcanzando,Barco,ALTA,MEDIA
+146,13,2281.95,1224.94,Alcanzado,11.66,12.99,Contacto,Motor,No,36.32885959101052,Alcanzado si no accion cto,Contacto que no toma accion,BAJA,MEDIA
+146,14,6953.93,50.87,Cruce_br,11.6,4.36,Contacto,Motor,No,18.61055148704174,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+146,15,366.82,359.46,Cruce_br_br,14.09,34.28,Niguno,Motor,N/C,0.0450351285741137,Cruce_br_br,Niguno,ALTA,MEDIA
+146,16,5534.15,367.88,Cruce_er,17.92,8.6,Barco,Velero,N/C,8.505014276872688,Cruce_er,Barco,MEDIA,MEDIA
+146,17,965.67,87.03,Cruce_br_br,19.8,4.36,Niguno,Pesquero,N/C,1.19766196402436,Cruce_br_br,Niguno,ALTA,MEDIA
+146,18,2958.25,763.6,Cruce_br,12.07,6.99,Contacto,Pesquero,Si,5.4189055515388445,Cruce_br,Contacto,ALTA,MEDIA
+146,19,1276.71,1276.67,Cruce_er,10.24,3.75,Barco,Pesquero,N/C,0.0301645038155418,Cruce_er,Barco,MEDIA,MEDIA
+146,20,3215.4,1411.4,Cruce_br,11.77,4.94,Contacto,Velero,No,7.686709931150776,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+147,1,485.47,465.68,Cruce_br_br,11.12,28.03,Niguno,Motor,N/C,0.1054312580090593,Cruce_br_br,Niguno,ALTA,BAJA
+147,2,4297.98,1212.44,Alcanzado,18.65,28.1,Contacto,Motor,Si,12.916859018544898,Alcanzado,Contacto,BAJA,BAJA
+148,1,9179.82,814.84,Vuelta_encontrada,15.97,5.04,Ambos,Velero,N/C,12.896707405694771,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+148,2,3641.76,881.02,Alcanzando,11.65,6.5,Barco,Motor,N/C,20.279423103548886,Alcanzando,Barco,MEDIA,MEDIA
+148,3,2640.37,1973.96,Cruce_br_br,18.79,1.77,Niguno,Motor,N/C,2.5290220517595143,Cruce_br_br,Niguno,MEDIA,MEDIA
+148,4,7010.69,12.72,Vuelta_encontrada,16.44,0.22,Ambos,Pesquero,N/C,12.471785064178055,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+148,5,9794.34,1104.8,Vuelta_encontrada,12.25,27.0,Ambos,Motor,N/C,7.348825949699836,Vuelta_encontrada,Ambos,BAJA,MEDIA
+148,6,3682.75,1166.76,Cruce_br_br,19.04,9.27,Niguno,Velero,N/C,3.679327555625645,Cruce_br_br,Niguno,MEDIA,MEDIA
+148,7,1818.36,1409.01,Cruce_er_er,12.8,2.38,Niguno,Velero,N/C,2.275099884531308,Cruce_er_er,Niguno,MEDIA,MEDIA
+148,8,2019.32,1375.69,Alcanzando,17.25,11.16,Barco,Motor,N/C,7.0633759250455,Alcanzando,Barco,BAJA,MEDIA
+148,9,4449.42,1384.27,Cruce_er,13.01,33.95,Barco,Motor,N/C,3.4078407413799363,Cruce_er,Barco,MEDIA,MEDIA
+148,10,4231.55,809.3,Cruce_er,11.22,0.64,Barco,Pesquero,N/C,10.93947552784786,Cruce_er,Barco,MEDIA,MEDIA
+148,11,1154.65,322.2,Cruce_br,13.79,13.13,Contacto,Motor,No,1.6365349521829358,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+148,12,2790.46,190.72,Cruce_er,10.65,6.5,Barco,Velero,N/C,6.088303003104159,Cruce_er,Barco,ALTA,MEDIA
+148,13,3652.78,1722.12,Alcanzado,5.44,6.68,Contacto,Pesquero,Si,76.55643247073297,Alcanzado,Contacto,BAJA,MEDIA
+148,14,2516.13,587.56,Cruce_er,16.61,6.93,Barco,Pesquero,N/C,4.164887994832494,Cruce_er,Barco,ALTA,MEDIA
+148,15,439.75,181.79,Cruce_er,15.58,8.56,Barco,Pesquero,N/C,0.6629623078693898,Cruce_er,Barco,ALTA,MEDIA
+149,1,2556.85,1389.68,Cruce_br,12.28,5.97,Contacto,Pesquero,Si,5.298021090532805,Cruce_br,Contacto,BAJA,MEDIA
+149,2,1741.72,1527.75,Cruce_br,11.53,10.14,Contacto,Pesquero,No,1.9199408409986745,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+149,3,2588.58,1986.17,Cruce_er,17.72,9.57,Barco,Motor,N/C,2.339269617652546,Cruce_er,Barco,MEDIA,MEDIA
+149,4,5875.75,850.43,Vuelta_encontrada,16.64,17.0,Ambos,Motor,N/C,5.123251651298067,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+149,5,380.37,357.7,Cruce_er_er,11.93,0.29,Niguno,Velero,N/C,0.3137304897958283,Cruce_er_er,Niguno,ALTA,MEDIA
+149,6,1165.24,761.11,Vuelta_encontrada,11.6,10.73,Ambos,Motor,N/C,1.17077045592863,Vuelta_encontrada,Ambos,ALTA,MEDIA
+149,7,1387.19,66.62,Alcanzado,1.0,0.14,Contacto,Pesquero,Si,47.80890891692581,Alcanzado,Contacto,MEDIA,MEDIA
+149,8,543.03,394.57,Alcanzando,14.22,6.92,Barco,Velero,N/C,1.5153205930968885,Alcanzando,Barco,ALTA,MEDIA
+149,9,2178.92,1956.26,Alcanzando,13.54,1.12,Barco,Velero,N/C,2.2885370882204854,Alcanzando,Barco,MEDIA,MEDIA
+149,10,609.6,416.53,Cruce_br,15.8,5.88,Contacto,Pesquero,No,0.7153335269011044,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+149,11,3114.1,1683.48,Cruce_er_er,11.12,28.16,Niguno,Motor,N/C,2.0138348787422333,Cruce_er_er,Niguno,MEDIA,MEDIA
+149,12,591.88,576.26,Cruce_er,12.77,27.77,Barco,Motor,N/C,0.1267623113075743,Cruce_er,Barco,MEDIA,MEDIA
+149,13,1909.8,1831.19,Vuelta_encontrada,19.88,3.21,Ambos,Pesquero,N/C,0.6962502651881374,Vuelta_encontrada,Ambos,MEDIA,MEDIA
+149,14,1716.84,1499.12,Cruce_er_er,18.09,5.35,Niguno,Velero,N/C,1.0605651791419912,Cruce_er_er,Niguno,MEDIA,MEDIA
+149,15,5117.48,560.13,Cruce_br,17.94,14.02,Contacto,Pesquero,Si,7.387784129092116,Cruce_br,Contacto,MEDIA,MEDIA
+149,16,300.39,133.7,Cruce_br,18.95,1.61,Contacto,Pesquero,No,0.4276956637750994,Cruce_br si no accion cto,Contacto que no toma accion,ALTA,MEDIA
+149,17,1529.29,1494.83,Cruce_br_br,14.69,34.29,Niguno,Motor,N/C,0.1966558294218448,Cruce_br_br,Niguno,MEDIA,MEDIA
+149,18,1992.9,1762.93,Cruce_er_er,18.17,9.94,Niguno,Velero,N/C,0.981101171393124,Cruce_er_er,Niguno,MEDIA,MEDIA
+149,19,2823.63,339.59,Cruce_br_br,14.08,7.76,Niguno,Velero,N/C,3.828240710147615,Cruce_br_br,Niguno,ALTA,MEDIA
+149,20,2706.54,1877.57,Cruce_br,11.23,10.72,Contacto,Pesquero,No,3.3108044167872697,Cruce_br si no accion cto,Contacto que no toma accion,MEDIA,MEDIA
+150,1,1949.48,429.23,Alcanzando,18.37,7.28,Barco,Pesquero,N/C,5.0611141556262345,Alcanzando,Barco,ALTA,ALTA
